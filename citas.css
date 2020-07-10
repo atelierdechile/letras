@@ -4221,9 +4221,9 @@ u:after,
 	}
 }
 
-@media (max-width: 767px) and (orientation: landscape) {
+@media (max-width: 800px) and (orientation: landscape) {
 	.chat-module .dropdown-menu {
-		width: 450px;
+		width: 800px;
 	}
 }
 
